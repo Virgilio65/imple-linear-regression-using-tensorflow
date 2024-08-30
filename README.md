@@ -1,2 +1,2 @@
-# imple-linear-regression-using-tensorflow
+# simple-linear-regression-using-tensorflow
 Homework 2
